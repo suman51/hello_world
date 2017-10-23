@@ -1,6 +1,5 @@
 # hello_world
 just another repository
-
-Hello everyone,
-
+Hi,
 this is Sonika,I have started learning how to use GIT.
+
